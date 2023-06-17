@@ -8,10 +8,13 @@ so do not expect it to work smoothly.
 
 Make sure to install =SDL2= for your system.
 
-=$> git clone https://github.com/ss141309/chip-8.git=
-=$> cd chip-8=
-=make=
-=./chip-8 <rom_file>=
+=$ git clone https://github.com/ss141309/chip-8.git=
+
+=$ cd chip-8=
+
+=$ make=
+
+=$ ./chip-8 <rom_file>=
 
 * Screenshots
 
