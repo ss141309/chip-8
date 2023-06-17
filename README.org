@@ -1,0 +1,26 @@
+#+title: Chip-8
+
+A Chip-8 interpreter implemented in C for learning purposes.
+The basic functionalities are present, but it is not fully implemented yet,
+so do not expect it to work smoothly.
+
+* Getting Started
+
+Make sure to install =SDL2= for your system.
+
+=$> git clone https://github.com/ss141309/chip-8.git=
+=$> cd chip-8=
+=make=
+=./chip-8 <rom_file>=
+
+* Screenshots
+
+[[./Screenshots/ibm-logo.png]]
+
+[[./Screenshots/corax+.png]]
+
+* Acknowledgements
+
+[[https://tobiasvl.github.io/blog/write-a-chip-8-emulator/][Guide to making a CHIP-8 emulator]]
+
+[[https://github.com/Klairm/chip8][Klairm/chip8]]
